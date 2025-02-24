@@ -1,0 +1,33 @@
+ @import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+
+        *{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin-top: 20%;
+            background-color: rgb(188, 215, 237);
+            overflow: hidden;
+        }
+        svg {
+            width: 10%;
+            height: 25%;
+            overflow: visible;
+        }
+        #cone {
+            position: relative;
+        }
+        .text {
+          font-family: 'Imperial Script';
+          font-size: 3rem;
+          color: fuchsia;
+          padding: 10px;
+        }
+        
+        
