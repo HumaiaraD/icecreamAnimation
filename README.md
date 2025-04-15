@@ -8,3 +8,10 @@ After the scoops are settled in place, the .text elements emerge into place.
 
 ![Screenshot 2025-02-24 173602](https://github.com/user-attachments/assets/5dd052f6-360a-4cd3-a2f3-3041d06a5938)
 
+TECH STACk:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+
+
